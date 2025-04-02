@@ -16,3 +16,17 @@ for i in range(M):
     s,e,n = map(int,input().split())
     l[s-1:e]=[n]*(e-s+1)
 print(*l)
+
+"""
+해당 코드가 inplace방식이고, 위에 코드가 새로운 리스트를 만드는 형식이라, 약간의 차이로 이 코드가 더 좋음
+N, M = map(int, input().split())
+
+arr = [0] * N
+
+for i in range(M):
+  i,j,k = map(int, input().split())
+  for b in range(i-1,j):
+    arr[b] = k
+    
+print(*arr)
+"""
