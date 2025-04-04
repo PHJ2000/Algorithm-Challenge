@@ -1,6 +1,6 @@
 """
 사이트: 백준
-문제 이름: [문자와 문자열](https://www.acmicpc.net/submit/27866)
+문제 이름: [문자와 문자열](https://www.acmicpc.net/problem/27866)
 
 풀이 접근 방법:
 - 문자열 인덱싱으로 구현
