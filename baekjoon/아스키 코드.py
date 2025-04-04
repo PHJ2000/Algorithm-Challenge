@@ -1,6 +1,6 @@
 """
 사이트: 백준
-문제 이름: [아스키 코드](https://www.acmicpc.net/submit/11654)
+문제 이름: [아스키 코드](https://www.acmicpc.net/problem/11654)
 
 풀이 접근 방법:
 - 내장 함수 ord를 활용하여 구현
