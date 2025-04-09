@@ -6,8 +6,8 @@ Class 4 학습을 위한 핵심 알고리즘 대표 문제 18개를 정리한 �
 ---
 
 ## 심화 1
-- [ ] [1316 - 그룹 단어 체커](https://www.acmicpc.net/problem/1316)
-- [ ] [25206 - 너의 평점은](https://www.acmicpc.net/problem/25206)
+- [X] [1316 - 그룹 단어 체커](https://www.acmicpc.net/problem/1316)
+- [X] [25206 - 너의 평점은](https://www.acmicpc.net/problem/25206)
 
 ## 시간 복잡도
 - [ ] [24267 - 알고리즘 수업 - 수행 시간 6](https://www.acmicpc.net/problem/24267)
