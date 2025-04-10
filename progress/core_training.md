@@ -10,8 +10,8 @@ Class 4 학습을 위한 핵심 알고리즘 대표 문제 18개를 정리한 �
 - [X] [25206 - 너의 평점은](https://www.acmicpc.net/problem/25206)
 
 ## 시간 복잡도
-- [ ] [24267 - 알고리즘 수업 - 수행 시간 6](https://www.acmicpc.net/problem/24267)
-- [ ] [24313 - 알고리즘 수업 - 점근적 표기 1](https://www.acmicpc.net/problem/24313)
+- [X] [24267 - 알고리즘 수업 - 수행 시간 6](https://www.acmicpc.net/problem/24267)
+- [X] [24313 - 알고리즘 수업 - 점근적 표기 1](https://www.acmicpc.net/problem/24313)
 
 ## 브루트 포스
 - [ ] [2231 - 분해합](https://www.acmicpc.net/problem/2231)
