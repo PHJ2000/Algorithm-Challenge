@@ -9,7 +9,7 @@
 - 그렇다면, 시간도 굉장히 적게 걸려서 다 보면 된다는 결론이 된다.
 
 느낀점:
-- 백트래킹으로 시도를 할 때, 구현을 하지 못 했다. dp만 너무 익숙하지 않은 지 걱정된다.
+- for else문법이 있다는 것을 처음 알았다. 놀랍다. 자릿수 합을 sum(map(int,str(i)))로 축약하다는 것이 놀랍다.
 - 
 """
 N = int(input())
@@ -28,3 +28,18 @@ for i in range(ja,N+1):
     if N==s:
         print(i)
         break
+"""
+좋은 풀이
+N = int(input())
+
+# 생성자의 최소 시작값은 N - 9 * 자릿수
+start = max(0, N - 9 * len(str(N)))
+
+for i in range(start, N):
+    digit_sum = i + sum(map(int, str(i)))  # 각 자리수 더함
+    if digit_sum == N:
+        print(i)
+        break
+else:
+    print(0)
+"""
