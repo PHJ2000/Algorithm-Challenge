@@ -8,9 +8,9 @@
 
 - 총 문제 수: 48
 
-- 푼 문제 수: 7
+- 푼 문제 수: 8
 
-- 남은 문제 수: 41
+- 남은 문제 수: 40
 
 
 ## 📋 문제 리스트
@@ -22,7 +22,7 @@
 - [x] [N과 M (4)](https://www.acmicpc.net/problem/15652)
 - [x] [N과 M (5)](https://www.acmicpc.net/problem/15654)
 - [x] [가장 긴 증가하는 부분 수열](https://www.acmicpc.net/problem/11053)
-- [ ] [트리의 부모 찾기](https://www.acmicpc.net/problem/11725)
+- [x] [트리의 부모 찾기](https://www.acmicpc.net/problem/11725)
 - [ ] [N과 M (9)](https://www.acmicpc.net/problem/15663)
 - [ ] [N과 M (12)](https://www.acmicpc.net/problem/15666)
 - [ ] [A → B](https://www.acmicpc.net/problem/16953)
