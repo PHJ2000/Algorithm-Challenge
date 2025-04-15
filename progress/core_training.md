@@ -15,7 +15,7 @@ Class 4 학습을 위한 핵심 알고리즘 대표 문제 18개를 정리한 �
 
 ## 브루트 포스
 - [X] [2231 - 분해합](https://www.acmicpc.net/problem/2231)
-- [ ] [1436 - 영화감독 숌](https://www.acmicpc.net/problem/1436)
+- [X] [1436 - 영화감독 숌](https://www.acmicpc.net/problem/1436)
 - [ ] [1018 - 체스판 다시 칠하기](https://www.acmicpc.net/problem/1018)
 
 ## 정렬
