@@ -19,7 +19,7 @@ Class 4 학습을 위한 핵심 알고리즘 대표 문제 18개를 정리한 �
 - [X] [1018 - 체스판 다시 칠하기](https://www.acmicpc.net/problem/1018)
 
 ## 정렬
-- [ ] [11650 - 좌표 정렬하기](https://www.acmicpc.net/problem/11650)
+- [X] [11650 - 좌표 정렬하기](https://www.acmicpc.net/problem/11650)
 
 ## 집합과 맵
 - [ ] [14425 - 문자열 집합](https://www.acmicpc.net/problem/14425)
