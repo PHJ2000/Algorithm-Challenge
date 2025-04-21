@@ -29,7 +29,7 @@ Class 4 학습을 위한 핵심 알고리즘 대표 문제 18개를 정리한 �
 
 ## 재귀
 - [X] [17478 - 재귀함수가 뭔가요?](https://www.acmicpc.net/problem/17478)
-- [ ] [4779 - 칸토어 집합](https://www.acmicpc.net/problem/4779)
+- [X] [4779 - 칸토어 집합](https://www.acmicpc.net/problem/4779)
 
 ## 백트래킹
 - [ ] [15649 - N과 M (1)](https://www.acmicpc.net/problem/15649)
