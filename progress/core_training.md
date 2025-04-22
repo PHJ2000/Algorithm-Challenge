@@ -32,7 +32,7 @@ Class 4 학습을 위한 핵심 알고리즘 대표 문제 18개를 정리한 �
 - [X] [4779 - 칸토어 집합](https://www.acmicpc.net/problem/4779)
 
 ## 백트래킹
-- [ ] [15649 - N과 M (1)](https://www.acmicpc.net/problem/15649)
+- [X] [15649 - N과 M (1)](https://www.acmicpc.net/problem/15649)
 - [ ] [9663 - N-Queen](https://www.acmicpc.net/problem/9663)
 
 ## 그리디
