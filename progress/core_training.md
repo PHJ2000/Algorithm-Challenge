@@ -36,9 +36,9 @@ Class 4 학습을 위한 핵심 알고리즘 대표 문제 18개를 정리한 �
 - [X] [9663 - N-Queen](https://www.acmicpc.net/problem/9663)
 
 ## 그리디
-- [ ] [11047 - 동전 0](https://www.acmicpc.net/problem/11047)
+- [X] [11047 - 동전 0](https://www.acmicpc.net/problem/11047)
 
 ## 이분 탐색
-- [ ] [1920 - 수 찾기](https://www.acmicpc.net/problem/1920)
-- [ ] [1654 - 랜선 자르기](https://www.acmicpc.net/problem/1654)
-- [ ] [2805 - 나무 자르기](https://www.acmicpc.net/problem/2805)
+- [X] [1920 - 수 찾기](https://www.acmicpc.net/problem/1920)
+- [X] [1654 - 랜선 자르기](https://www.acmicpc.net/problem/1654)
+- [X] [2805 - 나무 자르기](https://www.acmicpc.net/problem/2805)
