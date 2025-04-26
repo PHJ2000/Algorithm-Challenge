@@ -26,7 +26,7 @@
 - [x] [N과 M (9)](https://www.acmicpc.net/problem/15663)
 - [x] [N과 M (12)](https://www.acmicpc.net/problem/15666)
 - [x] [A → B](https://www.acmicpc.net/problem/16953)
-- [ ] [곱셈](https://www.acmicpc.net/problem/1629)
+- [x] [곱셈](https://www.acmicpc.net/problem/1629)
 - [ ] [트리 순회](https://www.acmicpc.net/problem/1991)
 - [ ] [스티커](https://www.acmicpc.net/problem/9465)
 - [ ] [구간 합 구하기 5](https://www.acmicpc.net/problem/11660)
