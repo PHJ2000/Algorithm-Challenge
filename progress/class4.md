@@ -8,9 +8,9 @@
 
 - 총 문제 수: 48
 
-- 푼 문제 수: 9
+- 푼 문제 수: 14
 
-- 남은 문제 수: 39
+- 남은 문제 수: 34
 
 
 ## 📋 문제 리스트
@@ -28,7 +28,7 @@
 - [x] [A → B](https://www.acmicpc.net/problem/16953)
 - [x] [곱셈](https://www.acmicpc.net/problem/1629)
 - [x] [트리 순회](https://www.acmicpc.net/problem/1991)
-- [ ] [스티커](https://www.acmicpc.net/problem/9465)
+- [x] [스티커](https://www.acmicpc.net/problem/9465)
 - [ ] [구간 합 구하기 5](https://www.acmicpc.net/problem/11660)
 - [ ] [최소비용 구하기](https://www.acmicpc.net/problem/1916)
 - [ ] [내려가기](https://www.acmicpc.net/problem/2096)
