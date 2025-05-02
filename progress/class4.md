@@ -8,9 +8,9 @@
 
 - 총 문제 수: 48
 
-- 푼 문제 수: 15
+- 푼 문제 수: 19
 
-- 남은 문제 수: 33
+- 남은 문제 수: 29
 
 
 ## 📋 문제 리스트
@@ -32,7 +32,7 @@
 - [x] [구간 합 구하기 5](https://www.acmicpc.net/problem/11660)
 - [x] [최소비용 구하기](https://www.acmicpc.net/problem/1916)
 - [x] [내려가기](https://www.acmicpc.net/problem/2096)
-- [ ] [LCS](https://www.acmicpc.net/problem/9251)
+- [x] [LCS](https://www.acmicpc.net/problem/9251)
 - [ ] [평범한 배낭](https://www.acmicpc.net/problem/12865)
 - [ ] [숨바꼭질 3](https://www.acmicpc.net/problem/13549)
 - [ ] [치킨 배달](https://www.acmicpc.net/problem/15686)
