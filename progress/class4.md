@@ -8,9 +8,9 @@
 
 - 총 문제 수: 48
 
-- 푼 문제 수: 19
+- 푼 문제 수: 20
 
-- 남은 문제 수: 29
+- 남은 문제 수: 28
 
 
 ## 📋 문제 리스트
@@ -33,7 +33,7 @@
 - [x] [최소비용 구하기](https://www.acmicpc.net/problem/1916)
 - [x] [내려가기](https://www.acmicpc.net/problem/2096)
 - [x] [LCS](https://www.acmicpc.net/problem/9251)
-- [ ] [평범한 배낭](https://www.acmicpc.net/problem/12865)
+- [x] [평범한 배낭](https://www.acmicpc.net/problem/12865)
 - [ ] [숨바꼭질 3](https://www.acmicpc.net/problem/13549)
 - [ ] [치킨 배달](https://www.acmicpc.net/problem/15686)
 - [ ] [파이프 옮기기 1](https://www.acmicpc.net/problem/17070)
