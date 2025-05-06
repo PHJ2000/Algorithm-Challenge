@@ -8,9 +8,9 @@
 
 - 총 문제 수: 48
 
-- 푼 문제 수: 22
+- 푼 문제 수: 23
 
-- 남은 문제 수: 26
+- 남은 문제 수: 25
 
 
 ## 📋 문제 리스트
@@ -36,7 +36,7 @@
 - [x] [평범한 배낭](https://www.acmicpc.net/problem/12865)
 - [x] [숨바꼭질 3](https://www.acmicpc.net/problem/13549)
 - [x] [치킨 배달](https://www.acmicpc.net/problem/15686)
-- [ ] [파이프 옮기기 1](https://www.acmicpc.net/problem/17070)
+- [x] [파이프 옮기기 1](https://www.acmicpc.net/problem/17070)
 - [ ] [거짓말](https://www.acmicpc.net/problem/1043)
 - [ ] [특정한 최단 경로](https://www.acmicpc.net/problem/1504)
 - [ ] [최단경로](https://www.acmicpc.net/problem/1753)
