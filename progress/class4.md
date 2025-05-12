@@ -41,7 +41,7 @@
 - [x] [특정한 최단 경로](https://www.acmicpc.net/problem/1504)
 - [x] [최단경로](https://www.acmicpc.net/problem/1753)
 - [x] [트리의 지름](https://www.acmicpc.net/problem/1967)
-- [ ] [알파벳](https://www.acmicpc.net/problem/1987)
+- [x] [알파벳](https://www.acmicpc.net/problem/1987)
 - [ ] [별 찍기 - 11](https://www.acmicpc.net/problem/2448)
 - [ ] [이진 검색 트리](https://www.acmicpc.net/problem/5639)
 - [ ] [N-Queen](https://www.acmicpc.net/problem/9663)
