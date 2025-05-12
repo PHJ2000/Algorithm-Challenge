@@ -55,7 +55,6 @@ CJK
 IBZ  
 출력:  
 7
-
 """
 import sys
 input = sys.stdin.readline
