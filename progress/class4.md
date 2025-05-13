@@ -47,7 +47,7 @@
 - [ ] [N-Queen](https://www.acmicpc.net/problem/9663)
 - [ ] [행렬 제곱](https://www.acmicpc.net/problem/10830)
 - [ ] [가장 긴 바이토닉 부분 수열](https://www.acmicpc.net/problem/11054)
-- [ ] [플로이드](https://www.acmicpc.net/problem/11404)
+- [x] [플로이드](https://www.acmicpc.net/problem/11404)
 - [ ] [숨바꼭질 2](https://www.acmicpc.net/problem/12851)
 - [ ] [Σ](https://www.acmicpc.net/problem/13172)
 - [ ] [연구소](https://www.acmicpc.net/problem/14502)
