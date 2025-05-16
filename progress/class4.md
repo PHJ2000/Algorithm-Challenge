@@ -8,9 +8,9 @@
 
 - 총 문제 수: 48
 
-- 푼 문제 수: 26
+- 푼 문제 수: 28
 
-- 남은 문제 수: 22
+- 남은 문제 수: 20
 
 
 ## 📋 문제 리스트
@@ -54,8 +54,8 @@
 - [ ] [서강그라운드](https://www.acmicpc.net/problem/14938)
 - [ ] [미세먼지 안녕!](https://www.acmicpc.net/problem/17144)
 - [ ] [사전 순 최대 공통 부분 수열](https://www.acmicpc.net/problem/30805)
-- [ ] [파티](https://www.acmicpc.net/problem/1238)
-- [ ] [웜홀](https://www.acmicpc.net/problem/1865)
+- [x] [파티](https://www.acmicpc.net/problem/1238)
+- [x] [웜홀](https://www.acmicpc.net/problem/1865)
 - [ ] [벽 부수고 이동하기](https://www.acmicpc.net/problem/2206)
 - [ ] [치즈](https://www.acmicpc.net/problem/2638)
 - [ ] [최소비용 구하기 2](https://www.acmicpc.net/problem/11779)
